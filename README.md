@@ -1,8 +1,7 @@
-# React Phone catalog
+# Nice Gadgets Store
 
   - [DEMO LINK](https://annaviolin23.github.io/react_phone-catalog/)
   - [Figma design](https://www.figma.com/file/BUusqCIMAWALqfBahnyIiH/Phone-catalog-(V2)-Original-Dark?type=design&mode=design)
-
 
 🛠️ Tech Stack
 - JavaScript
